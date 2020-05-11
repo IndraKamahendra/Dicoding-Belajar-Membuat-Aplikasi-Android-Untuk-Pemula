@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Negara Asean</string>
+    <string name="name_negara">Nama Negara</string>
+    <string name="detail">Detail</string>
+    <string name="ibu_kota">Ibu Kota</string>
+    <string name="name_saya">Indra Cahya Kamahendra</string>
+    <string name="email_saya">indracahya843@gmail.com</string>
+    <string name="identity">Bentuk Negara \nKepala Negara \nIbu Kota \nLuas Wilayah \nJumlah Penduduk \nBahasa \nMata Uang \nHari Kemerdekaan \nLagu Nasional \nBergabung Asean</string>
+    <string name="content_identity">content identity</string>
+    <string name="content_overview">Overview</string>\
+    <string name="nama">Nama</string>
+    <string name="email">Email</string>
+    <string name="img_negara">Image Negara</string>
+    <string name="ic_social24">Ic Social</string>
+    <string name="ic_email24">IC Email</string>
+    <string name="about">About</string>
+    <string name="lambang_negara">Lambang Negara</string>
+</resources>
